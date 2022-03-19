@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on https://github.com/mustafa-kapadia1483/sti
+- 🌱 I’m currently learning ReactJs, NextJs
+
+  [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=mustafa-kapadia1483&pie=false)](https://github.com/evirunurm/github-stats)
+
 <!--
 **mustafa-kapadia1483/mustafa-kapadia1483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
