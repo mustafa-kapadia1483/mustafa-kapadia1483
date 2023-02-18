@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Shark Tank India Stats](https://sharktankindia.mustafak.dev/)
-- 🌱 I’m currently learning ReactJs, NextJs
+- 🔭 I’m currently working on [Teen Patti Multiplayer Game](https://github.com/mustafa-kapadia1483/teen-patti)
+- 🌱 I’m currently learning SvelteKit
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-kapadia1483&theme=dark&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
